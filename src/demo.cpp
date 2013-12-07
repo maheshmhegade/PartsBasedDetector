@@ -48,6 +48,8 @@
 #include "nms.hpp"
 #include "Rect3.hpp"
 #include "DistanceTransform.hpp"
+#include <stdio.h>
+
 using namespace cv;
 using namespace std;
 
